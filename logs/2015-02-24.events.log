@@ -1,0 +1,7 @@
+l2	time	2015-02-24T12:39:45	code	32000	message	<span>Application started</span>
+l2	time	2015-02-24T12:39:45	code	1120	message	<span>Report-Mailer Service Started</span>
+l2	time	2015-02-24T12:40:40	code	5000	message	<span>Audit: SecurityFailure Login with username IkanBilis from ::1</span>
+l2	time	2015-02-24T12:40:59	code	5000	message	<span>Audit: SecurityFailure Login with username IkanBilis from ::1</span>
+l2	time	2015-02-24T12:41:43	code	5000	message	<span>Audit: SecurityFailure Login with username IkanBilis from ::1</span>
+l2	time	2015-02-24T12:42:09	code	5001	message	<span>Audit: SecuritySuccess Login with username Mikail from ::1</span>
+l2	time	2015-02-24T12:44:43	code	500	message	<span>Info ReferralReceived:<br/>Referral received from target <a href="http://localhost:58290/EditConfig.aspx">http://localhost:58290/EditConfig.aspx</a> originating at IP Address ::1 </span>
